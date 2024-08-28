@@ -13,18 +13,17 @@ You must be at least 18 years old to use this Service. By agreeing to these Term
 
 ## 3. Service Description
 
-Elyn Test API is a paid service that provides access to various AI APIs. The Service is currently in a testing phase and may be subject to changes or discontinuation.
+Elyn Test API is a paid service that provides access to various AI APIs. The Service is currently in a testing phase and may be subject to changes or discontinuation without notice.
 
-## 4. User Accounts and Billing
+## 4. User Accounts and API Keys
 
-4.1. To access the Service, you must create an account and provide accurate and complete information.
+4.1. To access the Service, you must use an API key provided at purchase.
 
-4.2. You are responsible for maintaining the confidentiality of your account and password.
+4.2. You are responsible for maintaining the confidentiality of your API key.
 
 4.3. The Service is provided on a paid basis. Pricing details will be provided separately and may be subject to change.
 
 4.4. In the event of service discontinuation, we will provide refunds for the remaining unused period of prepaid services.
-
 ## 5. Use of the Service
 
 5.1. You agree to use the Service only for lawful purposes and in accordance with these Terms.
