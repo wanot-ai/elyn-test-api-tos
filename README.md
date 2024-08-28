@@ -42,9 +42,13 @@ Elyn Test API is a paid service that provides access to various AI APIs. The Ser
 
 7.1. We collect and use certain data related to your use of the Service, including but not limited to the volume of requests and the number of tokens used.
 
-7.2. By using the Service, you consent to the logging of your inputs and outputs. This logged data may be used by Wanot AI, Inc. for service improvement, research, and other purposes as we deem appropriate.
+7.2. By default, we do not log or use your inputs and outputs for any purpose beyond providing the Service.
 
-7.3. For information about how we collect and use your personal data for payment processing, please refer to the privacy policy of our payment processor, Stripe.
+7.3. In the future, if we decide to collect and use your inputs and outputs for purposes such as service improvement or research, we will explicitly request your consent before doing so.
+
+7.4. You will have the option to opt in or out of such data collection at any time.
+
+7.5. For information about how we collect and use your personal data for payment processing, please refer to the privacy policy of our payment processor, Stripe.
 
 ## 8. Limitation of Liability
 
